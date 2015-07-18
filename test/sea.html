@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<script src="/web/statics/assets/min/modules/seajs/sea.js" id="seajsnode"></script>
+<script src="/statics/assets/min/modules/seajs/sea.js" id="seajsnode"></script>
 <script>
     function $getQuery(name,url){
 //参数：变量名，url为空则表从当前页面的url中取
@@ -20,7 +20,7 @@
     fdebug = 1;
 //    url = fdebug?"/web/statics/assets/weiyi/.build":"/web/statics/assets/min/modules";
     seajs.config({
-        base: "/web/statics/assets/"+(fdebug?"dev":"min")+"/modules"
+        base: "/statics/assets/"+(fdebug?"dev":"min")+"/modules"
 //        base: url
     });
 </script>
