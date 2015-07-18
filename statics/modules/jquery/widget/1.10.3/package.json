@@ -1,0 +1,17 @@
+{
+	"family": "jquery",
+	"name": "widget",
+	"version": "1.10.3",
+	"description": "jQuery widget plugin",
+	"author": {
+		"name": "jQuery Foundation and other contributors",
+		"url": "http://jquery.com/"
+	},
+	"keywords": ["jquery", "widget"],
+	"spm": {
+		"alias": {
+			"jquery": "jquery"
+		},
+		"output": ["widget.js"]
+	}
+}

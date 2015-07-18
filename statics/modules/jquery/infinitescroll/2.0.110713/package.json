@@ -1,0 +1,17 @@
+{
+	"family": "jquery",
+	"name": "infinitescroll",
+	"version": "2.0.110713",
+	"description": "jQuery infinitescroll plugin",
+	"author": {
+		"name": "jQuery Foundation and other contributors",
+		"url": "http://jquery.com/"
+	},
+	"keywords": ["jquery", "infinitescroll"],
+	"spm": {
+		"alias": {
+			"jquery": "jquery"
+		},
+		"output": ["infinitescroll.js"]
+	}
+}

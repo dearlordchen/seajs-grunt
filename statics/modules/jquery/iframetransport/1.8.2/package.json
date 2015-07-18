@@ -1,0 +1,17 @@
+{
+	"family": "jquery",
+	"name": "iframetransport",
+	"version": "1.8.2",
+	"description": "jQuery iframetransport plugin",
+	"author": {
+		"name": "jQuery Foundation and other contributors",
+		"url": "http://jquery.com/"
+	},
+	"keywords": ["jquery", "iframetransport"],
+	"spm": {
+		"alias": {
+			"jquery": "jquery"
+		},
+		"output": ["iframetransport.js"]
+	}
+}

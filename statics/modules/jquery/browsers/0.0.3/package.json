@@ -1,0 +1,17 @@
+{
+	"family": "jquery",
+	"name": "browsers",
+	"version": "0.0.3",
+	"description": "jQuery browsers plugin",
+	"author": {
+		"name": "jQuery Foundation and other contributors",
+		"url": "http://jquery.com/"
+	},
+	"keywords": ["jquery", "browsers"],
+	"spm": {
+		"alias": {
+			"jquery": "jquery"
+		},
+		"output": ["browsers.js"]
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "name": "o2o",
+    "version":"0.0.1",
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-clean":"*",
+        "grunt-contrib-copy":"*",
+        "grunt-cmd-transport" : "*",
+        "grunt-cmd-concat" : "*"
+    }
+}

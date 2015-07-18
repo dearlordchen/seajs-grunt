@@ -1,0 +1,15 @@
+{
+	"family": "district",
+	"name": "district",
+	"version": "1.0.0",
+	"description": "",
+	"author": {
+		"name": "",
+		"url": ""
+	},
+	"keywords": ["district"],
+	"spm": {
+		"alias": {},
+		"output": ["district.js"]
+	}
+}

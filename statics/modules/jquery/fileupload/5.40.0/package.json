@@ -1,0 +1,17 @@
+{
+	"family": "jquery",
+	"name": "fileupload",
+	"version": "5.40.0",
+	"description": "jQuery fileupload plugin",
+	"author": {
+		"name": "jQuery Foundation and other contributors",
+		"url": "http://jquery.com/"
+	},
+	"keywords": ["jquery", "fileupload"],
+	"spm": {
+		"alias": {
+			"jquery": "jquery"
+		},
+		"output": ["fileupload.js"]
+	}
+}

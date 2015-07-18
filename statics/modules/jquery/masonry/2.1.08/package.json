@@ -1,0 +1,17 @@
+{
+	"family": "jquery",
+	"name": "masonry",
+	"version": "2.1.08",
+	"description": "jQuery masonry plugin",
+	"author": {
+		"name": "jQuery Foundation and other contributors",
+		"url": "http://jquery.com/"
+	},
+	"keywords": ["jquery", "masonry"],
+	"spm": {
+		"alias": {
+			"jquery": "jquery"
+		},
+		"output": ["masonry.js"]
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"family": "easyhin",
+	"name": "common",
+	"version": "1.0.0",
+	"description": "",
+	"keywords": ["common"],
+	"spm": {
+		"alias": {
+			"jquery": "jquery"
+		},
+		"output": ["common.js"]
+	}
+}
